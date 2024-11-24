@@ -94,8 +94,6 @@ pytz==2024.1
 pyzmq==26.1.0
 referencing==0.35.1
 regex==2024.7.24
-requests
-requests-oauthlib
 rich==13.7.1
 rpds-py==0.20.0
 rsa==4.9
