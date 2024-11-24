@@ -102,7 +102,6 @@ rsa==4.9
 scikit-learn==1.5.1
 scipy==1.14.1
 seaborn==0.13.2
-selenium==4.23.1
 shellingham==1.5.4
 six==1.16.0
 smart-open==7.0.5
